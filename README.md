@@ -10,6 +10,10 @@ Enter Choice:
 _ _ _
 _ _ _
 _ _ _
+Enter your move:
 
 Enter values in the form of matrix.
+
+To enter in the first row first column, enter 0 0 
+
 
